@@ -24,6 +24,8 @@
 
 ## Technologies Used
 - JavaScript ES6
+- Git and GitHub
+- Command line
 
 
 ## Features
