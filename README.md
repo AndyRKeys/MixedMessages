@@ -17,7 +17,7 @@
 
 ## General Information
 - a message generator program that outputs a new, random message every time a user runs the program
-- the topic for this generator is an (Anti-)Astrology message generator
+- the topic for this generator is an Anti-Joke generator
 - to showcase basic JavaScript syntax and programming concepts
 - undertaken as part of Codecademy Full-Stack Engineer PRO course
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
