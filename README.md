@@ -17,7 +17,7 @@
 
 ## General Information
 - a message generator program that outputs a new, random message every time a user runs the program
-- the topic for this generator is: can a virtual monkeys at a virtual typewriter recreate Shakespeare!
+- the topic for this generator is: virtual character generator as if for an RPG game - each time it is run it will generate a new random character and output their stats to the console.
 - to showcase basic JavaScript syntax and programming concepts
 - undertaken as part of Codecademy Full-Stack Engineer PRO course
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -65,13 +65,12 @@ Room for improvement:
 - Improvement to be done 2
 
 To do:
-- create array of famous quotes
-- create function to pick one at random
-- create array of characters and punctuation to represent the virtual type writer
-
-Later:
-- How many many times does it take for the monkeys to do it?
-
+- create array of names
+- create array of character classes
+- create array of character races
+- create function to randomly select an item from a given array (demos functions)
+- create an object  factory to create a character with the given properties (demos Getter/Setter)
+- return properties of character to console
 
 ## Acknowledgements
 Give credit here.
