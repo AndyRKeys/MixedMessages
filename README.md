@@ -38,7 +38,7 @@
 
 
 ## Screenshots
-![Example screenshot](./img/Example.jpg)
+![Example screenshot](.img/Example.jpg?raw=true)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
