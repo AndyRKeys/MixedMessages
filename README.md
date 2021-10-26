@@ -16,8 +16,8 @@
 
 
 ## General Information
-- a message generator program that outputs a new, random message every time a user runs the program
-- the topic for this generator is: virtual character generator as if for an RPG game - each time it is run it will generate a new random character and output their stats to the console.
+- requirements for project: a message generator program that outputs a new, random message every time a user runs the program
+- how I've chosen to meet the requirements: a virtual character generator (as if for an RPG game) - each time it is run it will generate two new random characters and output their stats to the console.
 - to showcase basic JavaScript syntax and programming concepts
 - undertaken as part of Codecademy Full-Stack Engineer PRO course
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -27,55 +27,51 @@
 - JavaScript ES6
 - Git and GitHub
 - Command line
+- Node.js
 
 
 ## Features
-List the ready features here:
-- none yet! just starting project
+- creates character objects with Name, Class and Race properties
+- function to create an object with a random properties
+- creates a randomised player character and enemy character
+- writes the stats of both characters to the console
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Example.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+- install [node.js](https://nodejs.org/)
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
+Clone this repo to a local folder
+
+```
+git clone https://github.com/andyrkeys/mixedMessages.git
+```
+
+Run the program
+
+```
+node main.js
+```
 
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _complete_ 
 <!-- / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.-->
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- create array of names
-- create array of character classes
-- create array of character races
-- create function to randomly select an item from a given array (demos functions)
-- create an object  factory to create a character with the given properties (demos Getter/Setter)
-- return properties of character to console
+- none so far, will await feedback
 
 ## Acknowledgements
 Give credit here.
-- This project was based on [this tutorial](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages).
-
+- This project was based on this [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages) project.
+- Thanks to [Imagine Forest](https://www.imagineforest.com/blog/fantasy-character-names/#fantasy-human-names) for character names ideas
 
 ## Contact
 Created by [@AndyRKeys](https://github.com/AndyRKeys) - feel free to contact me!
