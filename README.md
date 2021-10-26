@@ -17,7 +17,7 @@
 
 ## General Information
 - a message generator program that outputs a new, random message every time a user runs the program
-- the topic for this generator is an Anti-Joke generator
+- the topic for this generator is: can a virtual monkeys at a virtual typewriter recreate Shakespeare!
 - to showcase basic JavaScript syntax and programming concepts
 - undertaken as part of Codecademy Full-Stack Engineer PRO course
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -65,8 +65,12 @@ Room for improvement:
 - Improvement to be done 2
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- create array of famous quotes
+- create function to pick one at random
+- create array of characters and punctuation to represent the virtual type writer
+
+Later:
+- How many many times does it take for the monkeys to do it?
 
 
 ## Acknowledgements
